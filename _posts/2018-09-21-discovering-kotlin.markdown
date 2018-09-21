@@ -179,6 +179,8 @@ On crée deux templates, dans `resources/template` :
 
 Il est temps de lancer l'application, non ? exécutez la main classe `KothuneApplication` et rendez-vous sur http://localhost:8080 ...
 
+Les sources de l'application sont consultables ici: [https://github.com/Bozoben/kothune](https://github.com/Bozoben/kothune){:target="_blank"}
+
 
 ## Quelques compléments
 
@@ -207,3 +209,4 @@ class DataInitializer(val repository: SalaireRepository) : ApplicationRunner {
 {% endhighlight %}
 
 Pour rendre les deux pages un peu plus belles, pourquoi ne pas intégrer un framework CSS simple comme [bulma](https://bulma.io/){:target="_blank"} ?
+
