@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tout commence par un post sur spring-boot-maven-plugin"
+title:  "Tout commence par ... spring-boot-maven-plugin"
 date:   2018-09-20 14:53:00 +0200
 categories: 
 ---
@@ -16,5 +16,6 @@ mvn -Drun.profiles=default,monsuperprofile spring-boot:run
 {% endhighlight %}
 
 Voilà ... je dis cela, je dis rien ...
+![Joy](/assets/g001.gif)
 
 
